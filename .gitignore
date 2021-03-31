@@ -1,3 +1,5 @@
 .idea
 **/__pycache__
-*.ttl
+WikiData/infobox_en.ttl
+WikiData/infobox_en_sub.ttl
+*.png
